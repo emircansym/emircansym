@@ -3,7 +3,7 @@ Currently, I'm immersing myself in the world of web technologies, learning how t
 
 🌱 What I'm Learning
 Front-end Development: Focusing on HTML, CSS, JavaScript, and frameworks like React.
-UI/UX Design: Exploring how to design intuitive interfaces that enhance user experience.
+React: Exploring how to design intuitive interfaces that enhance user experience.
 
 🚀 What I Bring
 With a background in customer service and IT support, I have a unique perspective on user needs and the importance of efficient, responsive design. I’m excited to bring these insights into my coding projects.
